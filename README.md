@@ -9,3 +9,10 @@ Awesome free and open source themes
 
 ### Email
 * [Responsive email template](https://github.com/leemunroe/responsive-html-email-template) A free simple responsive HTML email template [live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
+
+## Jekyll
+
+* [Gravity](https://github.com/hemangsk/Gravity) Minimal is the new cool [live preview](http://hemangsk.github.io/Gravity/).
+* [Halve](https://github.com/TaylanTatli/Halve) Stylish Two-Column Jekyll Theme [live preview(https://taylantatli.github.io/Halve/).
+* [Moon](https://github.com/TaylanTatli/Moon) Moon is a minimal, one column jekyll theme [live preview](https://taylantatli.github.io/Moon/).
+* [Type theme](https://github.com/rohanchandra/type-theme) A free and open-source Jekyll theme. Great for blogs and easy to customize [live preview](https://rohanchandra.github.io/type-theme/).
