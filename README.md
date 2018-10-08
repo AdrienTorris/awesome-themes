@@ -1,5 +1,10 @@
-# awesome-themes
-Awesome free and open source themes
+# Awesome Themes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+> A collection of awesome free and open source themes.
+
+Inspired by [awesome](https://github.com/sindresorhus/awesome) and [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor).
+
+Contributions are always welcome! 
 
 ## HTML
 
