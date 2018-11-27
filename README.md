@@ -18,7 +18,7 @@ Contributions are always welcome!
 * [Responsive email template](https://github.com/leemunroe/responsive-html-email-template) A free simple responsive HTML email template [live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
 
 ## Jekyll
-
+* [Chalk](https://github.com/nielsenramon/chalk) High quality, completely customizable, performant and 100% free blog theme ([live demo](http://chalk.nielsenramon.com/)).
 * [Gravity](https://github.com/hemangsk/Gravity) Minimal is the new cool ([live demo](http://hemangsk.github.io/Gravity/)).
 * [Halve](https://github.com/TaylanTatli/Halve) Stylish Two-Column Jekyll Theme ([live demo](https://taylantatli.github.io/Halve/)).
 * [Moon](https://github.com/TaylanTatli/Moon) Moon is a minimal, one column jekyll theme ([live demo](https://taylantatli.github.io/Moon/)).
