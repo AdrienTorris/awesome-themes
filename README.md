@@ -12,15 +12,13 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Email](#email)
 - [Jekyll](#jekyll)
 
-## HTML
-
-### Admin
+## Admin
 * [Dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates for Bootstrap.
 * [Tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4 ([live demo](https://tabler.github.io/)).
 * [Material Dashboard](https://github.com/creativetimofficial/material-dashboard) - Open Source Bootstrap 4 Material Design Admin ([live demo](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)).
 * [ModularAdmin](https://github.com/modularcode/modular-admin-html) - Free Dashboard Theme Built On Bootstrap 4 ([live demo](https://modularcode.io/modular-admin-html/)).
 
-### Email
+## Email
 * [Responsive email template](https://github.com/leemunroe/responsive-html-email-template) - A free simple responsive HTML email template [live preview](http://leemunroe.github.io/responsive-html-email-template/email.html).
 
 ## Jekyll
