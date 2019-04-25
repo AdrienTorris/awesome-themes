@@ -4,7 +4,7 @@
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome) and [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor).
 
-Contributions are always welcome! 
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/AdrienTorris/awesome-themes/blob/master/CONTRIBUTING.md) pages first.
 
 ## HTML
 
