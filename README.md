@@ -23,3 +23,9 @@ Contributions are always welcome!
 * [Halve](https://github.com/TaylanTatli/Halve) - Stylish Two-Column Jekyll Theme ([live demo](https://taylantatli.github.io/Halve/)).
 * [Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme ([live demo](https://taylantatli.github.io/Moon/)).
 * [Type theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme. Great for blogs and easy to customize [live preview](https://rohanchandra.github.io/type-theme/).
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Adrien Torris has waived all copyright and related or neighboring rights to this work.
