@@ -11,6 +11,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Admin](#admin)
 - [Email](#email)
 - [Jekyll](#jekyll)
+- [Icons](#icons)
 
 ## Admin
 * [Dashboards](https://github.com/keen/dashboards) - ![stars](https://img.shields.io/github/stars/keen/dashboards?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/keen/dashboards?style=flat-square&cacheSeconds=86400) Responsive dashboard templates for Bootstrap.
