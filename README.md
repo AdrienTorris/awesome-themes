@@ -13,7 +13,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Jekyll](#jekyll)
 
 ## Admin
-* [Dashboards](https://github.com/keen/dashboards) - Responsive dashboard templates for Bootstrap.
+* [Dashboards](https://github.com/keen/dashboards) - ![stars](https://img.shields.io/github/stars/keen/dashboards?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/keen/dashboards?style=flat-square&cacheSeconds=86400) Responsive dashboard templates for Bootstrap.
 * [Tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4 ([live demo](https://tabler.github.io/)).
 * [Material Dashboard](https://github.com/creativetimofficial/material-dashboard) - Open Source Bootstrap 4 Material Design Admin ([live demo](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)).
 * [ModularAdmin](https://github.com/modularcode/modular-admin-html) - Free Dashboard Theme Built On Bootstrap 4 ([live demo](https://modularcode.io/modular-admin-html/)).
@@ -27,6 +27,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Halve](https://github.com/TaylanTatli/Halve) - Stylish Two-Column Jekyll Theme ([live demo](https://taylantatli.github.io/Halve/)).
 * [Moon](https://github.com/TaylanTatli/Moon) - Moon is a minimal, one column jekyll theme ([live demo](https://taylantatli.github.io/Moon/)).
 * [Type theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme. Great for blogs and easy to customize [live preview](https://rohanchandra.github.io/type-theme/).
+
+## Icons
+* [Heroicons](https://github.com/refactoringui/heroicons) - ![stars](https://img.shields.io/github/stars/refactoringui/heroicons?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/refactoringui/heroicons?style=flat-square&cacheSeconds=86400) A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ## License
 
