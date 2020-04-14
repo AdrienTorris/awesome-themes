@@ -31,6 +31,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Type theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme. Great for blogs and easy to customize [live preview](https://rohanchandra.github.io/type-theme/).
 
 ## Icons
+* [flag-icon-css](https://github.com/lipis/flag-icon-css) - ![stars](https://img.shields.io/github/stars/lipis/flag-icon-css?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lipis/flag-icon-css?style=flat-square&cacheSeconds=86400) A collection of all country flags in SVG. [Demo](https://flagicons.lipis.dev/).
 * [Heroicons](https://github.com/refactoringui/heroicons) - ![stars](https://img.shields.io/github/stars/refactoringui/heroicons?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/refactoringui/heroicons?style=flat-square&cacheSeconds=86400) A set of free MIT-licensed high-quality SVG icons for UI development.
 
 ## License
