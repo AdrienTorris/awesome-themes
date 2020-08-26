@@ -31,7 +31,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Type theme](https://github.com/rohanchandra/type-theme) - A free and open-source Jekyll theme. Great for blogs and easy to customize [live preview](https://rohanchandra.github.io/type-theme/).
 
 ## Gatsby
-* [vHealth](https://github.com/shantanu-deshmukh/vhealth-gatsby) - Open source Gatsby template for a healthcare startup. ([live demo](https://vhealth.openthemes.dev/))
+* [vHealth](https://github.com/shantanu-deshmukh/vhealth-gatsby) - Open source Gatsby template for a healthcare startup. ([live demo](https://vhealth.openthemes.dev/)).
 
 ## Icons
 * [flag-icon-css](https://github.com/lipis/flag-icon-css) - ![stars](https://img.shields.io/github/stars/lipis/flag-icon-css?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lipis/flag-icon-css?style=flat-square&cacheSeconds=86400) A collection of all country flags in SVG. [Demo](https://flagicons.lipis.dev/).
