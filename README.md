@@ -12,6 +12,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [Email](#email)
 - [Jekyll](#jekyll)
 - [Icons](#icons)
+- [Illustrations](#illustrations)
 
 ## Admin
 * [Tabler](https://github.com/tabler/tabler) - ![stars](https://img.shields.io/github/stars/tabler/tabler?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/tabler/tabler?style=flat-square&cacheSeconds=86400) Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap 4 ([live demo](https://tabler.github.io/)).
