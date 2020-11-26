@@ -38,6 +38,9 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 * [Heroicons](https://github.com/refactoringui/heroicons) - ![stars](https://img.shields.io/github/stars/refactoringui/heroicons?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/refactoringui/heroicons?style=flat-square&cacheSeconds=86400) A set of free MIT-licensed high-quality SVG icons for UI development.
 * [flag-icon-css](https://github.com/lipis/flag-icon-css) - ![stars](https://img.shields.io/github/stars/lipis/flag-icon-css?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/lipis/flag-icon-css?style=flat-square&cacheSeconds=86400) A collection of all country flags in SVG. [Demo](https://flagicons.lipis.dev/).
 
+## Illustrations
+* [Scale's illustrations](https://2.flexiple.com/scale/all-illustrations) - A new high-quality, open-source illustration each day. Use our color-picker to adapt the illustrations to your brand identity. Very generous [license](https://2.flexiple.com/scale/home#license) (no attribution needed, even for commercial projects).
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
